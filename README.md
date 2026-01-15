@@ -7,4 +7,4 @@
 `ACCESS_TOKEN=SEU_TOKEN_AQUI`
 
 3) Rodar:
-python.exe main.py
+`python.exe main.py`
